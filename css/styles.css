@@ -483,8 +483,7 @@ ul {
     }
 
     .nav-links {
-...
-
+        display: flex;
         position: fixed;
         top: var(--header-height);
         right: -100%;
